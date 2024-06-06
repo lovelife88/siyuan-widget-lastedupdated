@@ -1,0 +1,30 @@
+
+[英文](./README.md)
+
+## 🚀 更新日志
+
+见 [CHANGELOGS.md](./CHANGELOGS.md)
+
+## 🐯主要功能
+
+* 使用时间轴展示思源笔记最近更新的文档
+  * 根据更新时间在时间轴上排列
+  * 按照每天分组
+  * 一天内多个更新的文档按更新时间倒叙排列。
+* 文档卡片内提供当天更新的主要内容
+  * 不是当天的更新的不展示
+  * 每条截取15个字符
+  * 只展示段落标签的  
+* 点击文档标题，可以跳转到文档（目前安卓上还未实现）
+
+
+## ✨界面预览
+![widget.png](https://s2.loli.net/2024/06/06/JjP4ZrUIl3Hizu1.jpg)
+
+
+
+## ☎️意见交流
+
+欢迎在[Github](https://github.com/lovelife88/siyuan-widget-lastedupdated)提issue或是通过邮箱联系我
+
+如果你喜欢这个挂件，欢迎在[爱发电](https://afdian.net/a/lovelife88)赞助，这会激励我更新和完善挂件

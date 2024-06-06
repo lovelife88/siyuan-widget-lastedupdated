@@ -1,6 +1,27 @@
-{
-    "name": "LatestUpdated",
+  {
+    "name": "widget-latestupdated",
     "author": "lovelife88",
-    "url": "https://ld246.com/member/lovelife88",
-    "version": "0.0.1"
+    "url": "https://github.com/lovelife88/siyuan-widget-lastedupdated",
+    "version": "0.0.1",
+    "minAppVersion": "3.0.0",
+    "displayName": {
+      "default": "Latest Updated Docs",
+      "zh_CN": "最近更新的文档"
+    },
+    "description": {
+      "default": "Display the most recently updated documents and their updates on a timeline, click to navigate to the document.",
+      "zh_CN": "利用时间轴展示最近更新的文档及其更新的内容，点击跳转到该文档。"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh_CN": "README_zh_CN.md"
+    },
+    "funding": {
+      "openCollective": "",
+      "patreon": "",
+      "github": "",
+      "custom": [
+        "https://afdian.net/a/lovelife88"
+      ]
+    }
   }
