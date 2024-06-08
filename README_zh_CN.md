@@ -2,6 +2,8 @@
 [英文](./README.md)
 
 ## 🚀 更新日志
+* 最近更新
+  * 优化API查询网址，修复部分情况下无法显示的问题。
 
 见 [CHANGELOGS.md](./CHANGELOGS.md)
 
