@@ -1,7 +1,7 @@
 
 [中文](./README_zh_CN.md)
 
-## 🚀 Recent Updates（Version 0.0.4）
+## 🚀 Recent Updates（Version 0.0.5）
 
 ### Feature Updates
 - Refresh data when switching back to the page.
