@@ -1,8 +1,19 @@
 
-[Chinese](./README_zh_CN.md)
+[中文](./README_zh_CN.md)
 
-## 🚀 Changelog
+## 🚀 Recent Updates（Version 0.0.4）
 
+### Feature Updates
+- Refresh data when switching back to the page.
+- Clicking on document updates (Blocks) now jumps to the corresponding Block location in the document.
+- Added support for clicking and navigating to documents on mobile devices.
+- Full-screen display for widgets.
+
+### UI Updates
+- Increased right margin.
+- Removed the setting that truncates each content segment to 15 characters.
+- Increased paragraph spacing directly for each update segment.
+- Set a maximum height for each document card, showing scrollbars when the height is exceeded.
 See [CHANGELOGS.md](./CHANGELOGS.md)
 
 ## 🐯Key Features
@@ -28,3 +39,7 @@ See [CHANGELOGS.md](./CHANGELOGS.md)
 Feel free to raise an issue on [GitHub](https://github.com/lovelife88/siyuan-widget-lastedupdated) or contact me via email.
 
 If you like this widget, feel free to sponsor me on [afdian.net](https://afdian.net/a/lovelife88), as this will motivate me to update and improve the widget.
+
+## 🚀 Update History
+* v0.0.3
+  * Optimized API query URL, fixed issues where content was not displayed in some cases.
